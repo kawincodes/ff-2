@@ -5,7 +5,7 @@ import threading
 import asyncio
 
 # Bot token
-BOT_TOKEN = "7668012831:AAESR1FMl2ispSGiniDVIs74-1acXeodolc"
+BOT_TOKEN = "6710678793:AAHp0dBa6XjAvhWCMa0rQXrqQ2TqLPhaDo4"
 
 # Allowed user IDs (replace with the correct user IDs)
 ALLOWED_USER_IDS = [7318766583, 6667256453, 6095233308]
